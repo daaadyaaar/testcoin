@@ -1,0 +1,25 @@
+{
+  "name": "testcoin",
+  "version": "3.0.2",
+  "description": "Communicate with testcoind via JSON-RPC",
+  "main": "lib\\index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daaadyaaar/testcoin.git"
+  },
+  "keywords": [
+    "testcoin"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "“dad <“daaadyaaar@gmail.com”> (daaadyaaar.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daaadyaaar/testcoin/issues"
+  },
+  "homepage": "https://github.com/daaadyaaar/testcoin#readme"
+}
